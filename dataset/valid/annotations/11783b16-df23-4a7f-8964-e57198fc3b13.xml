@@ -1,0 +1,21 @@
+<annotation>
+<folder>images</folder>
+<filename>cc8a0897-Screenshot_2024-10-14_at_13.25.07.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>2</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>2880</width>
+<height>1800</height>
+<depth>4</depth>
+</size>
+<segmented>0</segmented>
+<object><name>Explorer</name><bndbox><xmin>10</xmin><ymin>120</ymin><xmax>88</xmax><ymax>194</ymax></bndbox></object><object><name>Search</name><bndbox><xmin>17</xmin><ymin>213</ymin><xmax>84</xmax><ymax>301</ymax></bndbox></object><object><name>Source Control</name><bndbox><xmin>14</xmin><ymin>312</ymin><xmax>81</xmax><ymax>390</ymax></bndbox></object><object><name>Run and Debug</name><bndbox><xmin>10</xmin><ymin>415</ymin><xmax>81</xmax><ymax>482</ymax></bndbox></object><object><name>Extensions</name><bndbox><xmin>14</xmin><ymin>507</ymin><xmax>92</xmax><ymax>578</ymax></bndbox></object><object><name>Testing</name><bndbox><xmin>14</xmin><ymin>607</ymin><xmax>85</xmax><ymax>674</ymax></bndbox></object><object><name>Accounts</name><bndbox><xmin>7</xmin><ymin>1583</ymin><xmax>95</xmax><ymax>1650</ymax></bndbox></object><object><name>Manage</name><bndbox><xmin>7</xmin><ymin>1672</ymin><xmax>92</xmax><ymax>1739</ymax></bndbox></object><object><name>Primary Side Bar</name><bndbox><xmin>101</xmin><ymin>107</ymin><xmax>586</xmax><ymax>1755</ymax></bndbox></object><object><name>Status Bar</name><bndbox><xmin>5</xmin><ymin>1755</ymin><xmax>2873</xmax><ymax>1794</ymax></bndbox></object><object><name>Activity Bar</name><bndbox><xmin>5</xmin><ymin>104</ymin><xmax>99</xmax><ymax>1755</ymax></bndbox></object><object><name>Editor</name><bndbox><xmin>595</xmin><ymin>109</ymin><xmax>2873</xmax><ymax>1752</ymax></bndbox></object></annotation>

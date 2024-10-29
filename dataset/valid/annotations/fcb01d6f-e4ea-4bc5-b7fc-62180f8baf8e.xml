@@ -1,0 +1,21 @@
+<annotation>
+<folder>images</folder>
+<filename>06ceae7c-Screenshot_20241027_234047.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1536</width>
+<height>748</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object><name>Close</name><bndbox><xmin>1503</xmin><ymin>4</ymin><xmax>1530</xmax><ymax>27</ymax></bndbox></object><object><name>Maximize</name><bndbox><xmin>1477</xmin><ymin>5</ymin><xmax>1497</xmax><ymax>25</ymax></bndbox></object><object><name>Minimize</name><bndbox><xmin>1445</xmin><ymin>5</ymin><xmax>1469</xmax><ymax>27</ymax></bndbox></object><object><name>Search Bar</name><bndbox><xmin>497</xmin><ymin>4</ymin><xmax>1093</xmax><ymax>31</ymax></bndbox></object><object><name>Editor</name><bndbox><xmin>325</xmin><ymin>33</ymin><xmax>1535</xmax><ymax>730</ymax></bndbox></object><object><name>Primary Side Bar</name><bndbox><xmin>45</xmin><ymin>32</ymin><xmax>329</xmax><ymax>731</ymax></bndbox></object><object><name>Top Bar</name><bndbox><xmin>1</xmin><ymin>1</ymin><xmax>1535</xmax><ymax>37</ymax></bndbox></object><object><name>Explorer</name><bndbox><xmin>4</xmin><ymin>41</ymin><xmax>43</xmax><ymax>77</ymax></bndbox></object><object><name>Search</name><bndbox><xmin>7</xmin><ymin>83</ymin><xmax>39</xmax><ymax>128</ymax></bndbox></object><object><name>Source Control</name><bndbox><xmin>5</xmin><ymin>136</ymin><xmax>41</xmax><ymax>181</ymax></bndbox></object><object><name>Run and Debug</name><bndbox><xmin>4</xmin><ymin>184</ymin><xmax>39</xmax><ymax>225</ymax></bndbox></object><object><name>Extensions</name><bndbox><xmin>5</xmin><ymin>276</ymin><xmax>40</xmax><ymax>318</ymax></bndbox></object><object><name>Testing</name><bndbox><xmin>7</xmin><ymin>330</ymin><xmax>41</xmax><ymax>363</ymax></bndbox></object><object><name>Accounts</name><bndbox><xmin>5</xmin><ymin>637</ymin><xmax>41</xmax><ymax>676</ymax></bndbox></object><object><name>Manage</name><bndbox><xmin>7</xmin><ymin>685</ymin><xmax>42</xmax><ymax>720</ymax></bndbox></object><object><name>Activity Bar</name><bndbox><xmin>1</xmin><ymin>35</ymin><xmax>50</xmax><ymax>729</ymax></bndbox></object><object><name>Status Bar</name><bndbox><xmin>0</xmin><ymin>725</ymin><xmax>1535</xmax><ymax>747</ymax></bndbox></object></annotation>

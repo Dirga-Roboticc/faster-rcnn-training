@@ -1,0 +1,21 @@
+<annotation>
+<folder>images</folder>
+<filename>f70c1f0a-Screenshot_20241016_045548.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1158</width>
+<height>700</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object><name>Explorer</name><bndbox><xmin>1118</xmin><ymin>622</ymin><xmax>1149</xmax><ymax>659</ymax></bndbox></object><object><name>Search</name><bndbox><xmin>1118</xmin><ymin>577</ymin><xmax>1150</xmax><ymax>610</ymax></bndbox></object><object><name>Source Control</name><bndbox><xmin>1116</xmin><ymin>524</ymin><xmax>1151</xmax><ymax>566</ymax></bndbox></object><object><name>Run and Debug</name><bndbox><xmin>1119</xmin><ymin>481</ymin><xmax>1151</xmax><ymax>515</ymax></bndbox></object><object><name>Extensions</name><bndbox><xmin>1119</xmin><ymin>386</ymin><xmax>1152</xmax><ymax>417</ymax></bndbox></object><object><name>Accounts</name><bndbox><xmin>1118</xmin><ymin>80</ymin><xmax>1153</xmax><ymax>108</ymax></bndbox></object><object><name>Manage</name><bndbox><xmin>1117</xmin><ymin>27</ymin><xmax>1152</xmax><ymax>70</ymax></bndbox></object><object><name>Panel</name><bndbox><xmin>1</xmin><ymin>19</ymin><xmax>860</xmax><ymax>334</ymax></bndbox></object><object><name>Primary Side Bar</name><bndbox><xmin>1</xmin><ymin>330</ymin><xmax>860</xmax><ymax>673</ymax></bndbox></object><object><name>Primary Side Bar</name><bndbox><xmin>854</xmin><ymin>20</ymin><xmax>1115</xmax><ymax>673</ymax></bndbox></object><object><name>Close</name><bndbox><xmin>6</xmin><ymin>676</ymin><xmax>26</xmax><ymax>697</ymax></bndbox></object><object><name>Minimize</name><bndbox><xmin>68</xmin><ymin>675</ymin><xmax>91</xmax><ymax>698</ymax></bndbox></object><object><name>Maximize</name><bndbox><xmin>35</xmin><ymin>672</ymin><xmax>59</xmax><ymax>698</ymax></bndbox></object><object><name>Search Bar</name><bndbox><xmin>326</xmin><ymin>672</ymin><xmax>779</xmax><ymax>699</ymax></bndbox></object><object><name>Top Bar</name><bndbox><xmin>1</xmin><ymin>674</ymin><xmax>1156</xmax><ymax>700</ymax></bndbox></object><object><name>Activity Bar</name><bndbox><xmin>1112</xmin><ymin>19</ymin><xmax>1158</xmax><ymax>670</ymax></bndbox></object><object><name>Status Bar</name><bndbox><xmin>1</xmin><ymin>1</ymin><xmax>1158</xmax><ymax>24</ymax></bndbox></object></annotation>
